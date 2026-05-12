@@ -1,4 +1,4 @@
-# CPEN 322 Project Group 33
+# AI chat bot
 
 This project is a chat application built for CPEN 322. It includes the Assignment 5 authentication features and an Assignment 6 AI feature set built around an OpenAI-backed chat room and a room sentiment analyzer.
 

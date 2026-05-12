@@ -1,8 +1,8 @@
-# Assignment 6 AI Feature Documentation
+# AI Feature Documentation
 
 ## Overview
 
-For Assignment 6, our group extended the chat application with two connected AI-enabled features:
+Our group extended the chat application with two connected AI-enabled features:
 
 - an OpenAI-powered `AI Chat` room where users can talk to `AI bot`
 - a room sentiment analyzer that summarizes the emotion each participant is expressing in the currently open room
