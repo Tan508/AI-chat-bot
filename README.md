@@ -3,8 +3,8 @@
 This project is a chat application built for CPEN 322. It includes the authentication features and AI feature set built around an OpenAI-backed chat room and a room sentiment analyzer.
 
 ## Demo Video
-
-https://github.com/user-attachments/assets/b67df10e-cbd9-446e-8e8b-010a928796ce
+[
+https://github.com/user-attachments/assets/b67df10e-cbd9-446e-8e8b-010a928796ce](https://github.com/Tan508/AI-chat-bot/blob/main/demo.mov)
 
 ## Features
 
